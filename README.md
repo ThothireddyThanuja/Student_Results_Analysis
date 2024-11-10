@@ -91,10 +91,10 @@ EDA was conducted to understand the dataset’s structure and explore the relati
 
   This project highlights how demographic factors influence student performance in key subjects. Some key takeaways include:
 
-    * Gender Distribution: The gender ratio in the dataset provides context for comparing male and female student performance.
-    * Parental Education Influence: Higher parental education levels generally correlate with higher student scores across subjects.
-    * Marital Status Impact: Students’ scores are influenced by parental marital status, which might provide insights into additional support needs.
-    * Ethnic Group Diversity: The ethnic diversity in the dataset allows for an understanding of performance trends across different groups.
+   * Gender Distribution: The gender ratio in the dataset provides context for comparing male and female student performance.
+   * Parental Education Influence: Higher parental education levels generally correlate with higher student scores across subjects.
+   * Marital Status Impact: Students’ scores are influenced by parental marital status, which might provide insights into additional support needs.
+   * Ethnic Group Diversity: The ethnic diversity in the dataset allows for an understanding of performance trends across different groups.
 
 
 

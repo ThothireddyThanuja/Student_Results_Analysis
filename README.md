@@ -38,10 +38,10 @@ Key columns in the dataset include:
 # Data Processing
 ## Steps:
 
-    * Data Loading: The dataset is loaded using Pandas.
-    * Data Cleaning: Dropped unnecessary columns, e.g., Unnamed: 0.
-                     Standardized the WklyStudyHours column to correct data formats.
-    * Missing Values: Checked for and reported any missing values, although no imputation was needed for this dataset.
+   * Data Loading: The dataset is loaded using Pandas.
+   * Data Cleaning: Dropped unnecessary columns, e.g., Unnamed: 0.
+                    Standardized the WklyStudyHours column to correct data formats.
+   * Missing Values: Checked for and reported any missing values, although no imputation was needed for this dataset.
 
 # Exploratory Data Analysis (EDA)
 
